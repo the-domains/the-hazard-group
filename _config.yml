@@ -13,6 +13,10 @@ color:
     - '#FBB9BF'
     - '#E376B7'
 layout_spectrum: 0.9708034689538181
+author:
+  name: Joe Hazard
+  email: joevallee@gmail.com
+  url: 'https://thegrid.ai/the-hazard-group/'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/36e31941-1f16-47a9-ab78-e9ec00bd2b2c.gif
 name: THE HAZARD GROUP
